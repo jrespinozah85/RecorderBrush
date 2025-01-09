@@ -1,2 +1,2 @@
 # RecorderBrush
-A small drawing app with recording capabiliies
+A small drawing app with recording capabilities
